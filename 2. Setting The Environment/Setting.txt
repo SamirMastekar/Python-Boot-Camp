@@ -1,0 +1,4 @@
+Python Link:- https://www.python.org/downloads/
+Anaconda Link:- https://www.anaconda.com/distribution/
+Open Library:- https://docs.python.org/3/library/
+Open Cv:- https://pypi.org/project/opencv-python/
